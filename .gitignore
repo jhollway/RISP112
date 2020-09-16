@@ -1,0 +1,5 @@
+*.Rmd
+*.RData
+*.rdb
+*.rdx
+.Rproj.user
