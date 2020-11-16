@@ -4,3 +4,4 @@
 *.rdx
 .Rproj.user
 TPOL_L1_Preface_cache/*
+.Rhistory
